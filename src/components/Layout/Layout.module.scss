@@ -1,0 +1,43 @@
+body{
+  padding: 10px 50px;
+}
+
+
+
+.samsungLogo,.appleLogo{
+  width: 100px;
+  height: 100px;
+};
+
+li{
+  list-style: none;
+  margin-right: 20px;
+  
+};
+
+.navList{
+  display: flex;
+  align-items: center;
+};
+
+.navLinks{
+  text-decoration: none;
+};
+
+.hotlineImg{
+  width: 80px;
+  height: 80px;
+  margin-right: 10px
+};
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+};
+
+.navbarRightSide,.profileLink{
+  display: flex;
+  align-items: center;
+};
+
